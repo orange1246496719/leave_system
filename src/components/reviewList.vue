@@ -34,7 +34,7 @@
 
     <div class="grey" style="height: 30px"></div>
   </div>
-  <button @click="backForm">回到表单页面</button>
+  <button @click="backForm">回到修改页面</button>
 </div>
 </template>
 
